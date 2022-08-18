@@ -1,0 +1,26 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+
+h1{
+    font-family: 'Rubik Iso', cursive;
+    font-size: 70px;
+}
+
+h1 strong{
+    color: cadetblue;
+    background-color: black;
+}
+
+
+P{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
